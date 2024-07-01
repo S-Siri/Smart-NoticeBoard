@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirebaseApp</string>
+    <string name="default_web_client_id">152937144565-tobvafbf24980km2jtr12oa42e42ivaj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartboard-auth-default-rtdb.firebaseio.com</string>
+    <!--    <string name="gcm_defaultSenderId" translatable="false">your-sender-id</string>-->
+    <string name="google_api_key" translatable="false">AIzaSyD8XiurOEUZdf2MfWFgj1_iZZHClJ74nJU</string>
+    <string name="google_app_id" translatable="false">1:152937144565:android:46fa6f295e9f5db8d125bc</string> <!-- This is the one you need -->
+    <!--    <string name="google_crash_reporting_api_key" translatable="false">your-crash-reporting-api-key</string>-->
+    <!--    <string name="google_storage_bucket" translatable="false">your-storage-bucket.appspot.com</string>-->
+</resources>

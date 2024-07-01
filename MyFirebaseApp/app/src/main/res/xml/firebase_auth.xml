@@ -1,0 +1,7 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">152937144565-tobvafbf24980km2jtr12oa42e42ivaj.apps.googleusercontent.com</string>
+    <array name="firebase_auth_providers">
+        <item>google.com</item>
+        <!-- Add other providers as needed -->
+    </array>
+</resources>
